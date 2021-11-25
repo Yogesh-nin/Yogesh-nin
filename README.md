@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Yogesh-nin/<OWNER>/<OWNER>/name-header.png "Header")](https://some-url.dev/)
+https://github.com/Yogesh-nin/Yogesh-nin/blob/main/name_header.png
 
 
 <!--
