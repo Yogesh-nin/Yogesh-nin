@@ -1,4 +1,4 @@
-<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/bad4c24031941cd730eff5bf7f5b031c4cdb5d6c/name_header.png" alt="Header image"
+<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/bad4c24031941cd730eff5bf7f5b031c4cdb5d6c/name_header.png" alt="Header image">
 <!--
 **Yogesh-nin/Yogesh-nin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
