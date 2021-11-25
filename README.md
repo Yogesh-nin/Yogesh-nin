@@ -1,5 +1,3 @@
-https://github.com/Yogesh-nin/Yogesh-nin/blob/main/name_header.png
-
 
 <!--
 **Yogesh-nin/Yogesh-nin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
