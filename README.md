@@ -1,20 +1,21 @@
 <img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/bad4c24031941cd730eff5bf7f5b031c4cdb5d6c/name_header.png" alt="Header image">
 
-**Yogesh chandra**
+I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+- 👩🏻‍💻 Student of Computer Science.
+- 💻 currently learning Full Stack Web Devolopement.
+- 🐱‍👤 absolute adore anime sp. One Piece ⚔.
+<details>
+  <summary>some other facts</summary>
+  <br>
+  <p><i>Siri play Love Story by Taylor Swift 🎶</i></p>
+  -Me go to jam when coding: musicals. Non-stop. ⭐️
+  <br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-nin&theme=dark)](https://git.io/streak-stats)
+  <br>
+  [[My github stats](https://github-readme-stats.vercel.app/api?username=Yogesh-nin&show_icons=true&theme=nord)]
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Yogesh-nin&theme=nord"/>
 
-**Yogesh-nin/Yogesh-nin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</details>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
