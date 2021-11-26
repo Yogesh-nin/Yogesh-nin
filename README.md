@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <hr>
-
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  
 <img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/086db585d29f3a0acc9025e4cf8adbf740a93831/footer_name.png" alt="footer">
