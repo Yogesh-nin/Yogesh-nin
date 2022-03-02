@@ -1,4 +1,4 @@
-<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/bad4c24031941cd730eff5bf7f5b031c4cdb5d6c/name_header.png" alt="Header image">
+<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/a02a0dd19055bab0dc0e4eb6199188a557673c02/header_name.png" alt="Header image">
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 - 👩🏻‍💻 Student of Computer Science.
@@ -34,4 +34,4 @@ I like experimenting with new technologies, building small projects, and occassi
     <a href="mailto:002chandra.yogesh@gmail.com" alt="contact me"><img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/667c955c179b1e7fa9b8e422596c610273f90933/mail-fill.svg"></a>
  <br><br>
     
-<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/086db585d29f3a0acc9025e4cf8adbf740a93831/footer_name.png" alt="footer">
+<img src="https://github.com/Yogesh-nin/Yogesh-nin/blob/7fb32a2dd8b342f35778192149fd5c5269839bec/footer.png" alt="footer">
